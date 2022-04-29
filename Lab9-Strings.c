@@ -1,5 +1,5 @@
 //Estudo em C
-//Lab 2 - 22/2
+//Lab 9 - 19/4
 
 //Exercício 1
 /*
