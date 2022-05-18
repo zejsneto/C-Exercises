@@ -47,14 +47,17 @@ Obs: Caso essa chamada seja inválida, responda com -1.
   
 //Exercício 3
 /*
-Os ponteiros são [Variáveis]  que conseguem armazenar [Endereços].
+Os ponteiros são [        ]  que conseguem armazenar [        ].
+'Funções' 'Variáveis' 'Strings' 'Procedimentos' 'Endereços' 'Vetores'
 */
-Funções Variáveis Strings Procedimentos Endereços Vetores
+Os ponteiros são [Variáveis]  que conseguem armazenar [Endereços].
   
 //Exercício 4
 /*
-As [Strings] são representadas através de [Vetores] do tipo [Char] e terminam com um caractér especial, o [0]
+As [        ] são representadas através de [        ] do tipo [        ] e terminam com um caractér especial, o [        ]
+'Matrizes' 'Bibliotecas' 'Funções' 'Vetores' 'Int' 'Char' '\n' 'Strings' 'Float' 'Funcções Recursivas' '\r' '0' '>'
 */
+As [Strings] são representadas através de [Vetores] do tipo [Char] e terminam com um caractér especial, o [0]
 
 //Exercício 5
 /*
